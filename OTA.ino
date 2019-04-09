@@ -17,8 +17,8 @@ kolin 2019
 #include <Update.h>
 #include "webpage.h"
 
-const char *ssid = "kolin";
-const char *password = "hovnokleslo";
+const char *ssid = "SSID";
+const char *password = "password";
 
 WebServer server(80);
 
